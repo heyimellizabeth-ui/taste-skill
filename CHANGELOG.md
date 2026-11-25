@@ -10,6 +10,7 @@ All notable changes to taste-skill live here. The repo follows SemVer-ish discip
 
 - `taste-skill` (install name `design-taste-frontend`) is now **v2 (experimental)**. The previous v1 is preserved as `taste-skill-v1` (install name `design-taste-frontend-v1`).
 - New `CHANGELOG.md` (this file).
+- Retired `taste-skill-v1` and `gpt-tasteskill` (`gpt-taste`). The v2 default covers both; recover them from git history if a project needs the old behaviour.
 
 ---
 
